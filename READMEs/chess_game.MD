@@ -1,4 +1,4 @@
-# `chess_game.py` - Code Explanation
+# `chess_game.py` - Line-by-Line Explanation
 
 This document explains every function in `scripts/chess_game.py` in detail, including code snippets and thorough commentary. The file implements a chess engine with board representation, move generation, validation, and game state management.
 
